@@ -1,0 +1,1 @@
+Basic implementation of web scraping through BeautifulSoup and Requests.
